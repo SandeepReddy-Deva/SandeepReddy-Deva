@@ -7,9 +7,9 @@ Experienced Data Scientist with a track record of building production-ready **Ge
 
 ### 💡 About Me
 * **AI & NLP Expert:** Specialized in architecting GenAI-powered platforms and RAG systems (using GPT-4, Claude, and Bedrock) that reduce manual analysis time by up to 70%.
-* **Full-Stack Data Architect:** Proven expertise in designing scalable Medallion architecture pipelines using PySpark and AWS Glue, processing 7M+ trades per quarter.
-* **MLOps Strategist:** Hands-on experience operationalizing the full ML lifecycle using Docker, Kubernetes, and CI/CD pipelines to ensure automated deployment and monitoring.
-* **Data Science Leader:** Over 5 years of experience leading cross-functional projects in financial compliance, portfolio risk, and customer behavior analytics.
+* **Data Engineering:** Proven expertise in designing and engineering scalable Medallion architecture pipelines using PySpark and AWS Glue, processing 7M+ trades per quarter.
+* **MLOps:** Hands-on experience operationalizing the full ML lifecycle using Docker, Kubernetes, and CI/CD pipelines to ensure automated deployment and monitoring.
+* **Data Science:** Over 5 years of experience working cross-functional projects in financial compliance, portfolio risk, and customer behavior analytics.
 
 ---
 
@@ -54,7 +54,7 @@ I am currently a **Senior Data Scientist at State Street**, where I am leading i
 
 ### 🤝 Connect with Me
 * **LinkedIn:** [Sandeep Reddy Devarapally](https://www.linkedin.com/in/sandeep-reddy-devarapally)
-* [cite_start]**Email:** [devarapallysandeepreddy@gmail.com](mailto:devarapallysandeepreddy@gmail.com)
+* **Email:** [devarapallysandeepreddy@gmail.com](mailto:devarapallysandeepreddy@gmail.com)
 * **Certifications:** Project Management Professional| Databricks Professional |Microsoft Fabric Data Engineer Associate
 
 ---
