@@ -6,10 +6,10 @@ Experienced Data Scientist and Brand Strategist with a track record of building 
 ---
 
 ### 💡 About Me
-* **AI & NLP Expert:** Specialized in architecting GenAI-powered platforms and RAG systems (using GPT-4, Claude, and Bedrock) that reduce manual analysis time by up to 70%[cite: 18, 19, 20].
-* **Full-Stack Data Architect:** Proven expertise in designing scalable Medallion architecture pipelines using PySpark and AWS Glue, processing 7M+ trades per quarter[cite: 21, 24].
-* **MLOps Strategist:** Hands-on experience operationalizing the full ML lifecycle using Docker, Kubernetes, and CI/CD pipelines to ensure automated deployment and monitoring[cite: 23].
-* **Data Science Leader:** Over 5 years of experience leading cross-functional projects in financial compliance, portfolio risk, and customer behavior analytics[cite: 4, 15, 25].
+* **AI & NLP Expert:** Specialized in architecting GenAI-powered platforms and RAG systems (using GPT-4, Claude, and Bedrock) that reduce manual analysis time by up to 70%.
+* **Full-Stack Data Architect:** Proven expertise in designing scalable Medallion architecture pipelines using PySpark and AWS Glue, processing 7M+ trades per quarter.
+* **MLOps Strategist:** Hands-on experience operationalizing the full ML lifecycle using Docker, Kubernetes, and CI/CD pipelines to ensure automated deployment and monitoring.
+* **Data Science Leader:** Over 5 years of experience leading cross-functional projects in financial compliance, portfolio risk, and customer behavior analytics.
 
 ---
 
@@ -34,9 +34,9 @@ Experienced Data Scientist and Brand Strategist with a track record of building 
 
 ### 🔬 Current Focus
 I am currently a **Senior Data Scientist at State Street**, where I am leading initiatives to:
-* **Generative AI:** Implementing LangGraph-based RAG architectures for investment policy retrieval[cite: 19].
-* **Financial Risk:** Developing risk intelligence assistants that reduce manual reporting time from 4 hours to 20 minutes[cite: 20].
-* **Regulatory Tech:** Building GenAI workflows for anomaly detection in trading patterns to prevent regulatory losses[cite: 22].
+* **Generative AI:** Implementing LangGraph-based RAG architectures for investment policy retrieval.
+* **Financial Risk:** Developing risk intelligence assistants that reduce manual reporting time from 4 hours to 20 minutes.
+* **Regulatory Tech:** Building GenAI workflows for anomaly detection in trading patterns to prevent regulatory losses.
 
 ---
 
@@ -48,8 +48,8 @@ I am currently a **Senior Data Scientist at State Street**, where I am leading i
 ---
 
 ### 🤝 Connect with Me
-* **LinkedIn:** [Sandeep Reddy Devarapally](https://www.linkedin.com/in/sandeep-reddy-devarapally) [cite: 2]
-* [cite_start]**Email:** [devarapallysandeepreddy@gmail.com](mailto:devarapallysandeepreddy@gmail.com) [cite: 2]
-* **Certifications:** Project Management Professional| Databricks Professional |Microsoft Fabric Data Engineer Associate [cite: 13, 14]
+* **LinkedIn:** [Sandeep Reddy Devarapally](https://www.linkedin.com/in/sandeep-reddy-devarapally)
+* [cite_start]**Email:** [devarapallysandeepreddy@gmail.com](mailto:devarapallysandeepreddy@gmail.com)
+* **Certifications:** Project Management Professional| Databricks Professional |Microsoft Fabric Data Engineer Associate
 
 ---
