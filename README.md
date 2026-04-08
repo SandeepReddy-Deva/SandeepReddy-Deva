@@ -8,13 +8,14 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=GenAI+Engineer;RAG+Systems+Builder;Data+Engineer;LLM+Applications;AI+at+Scale)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;GenAI+Engineer;RAG+Systems+Builder;Data+Engineer;LLM+Applications;)
 
 ---
 
 # 🌐 Portfolio Preview
 
-<!-- ⚠️ Replace with your actual GIF -->
+<<img width="1889" height="793" alt="image" src="https://github.com/user-attachments/assets/d6831769-77cb-441c-b7df-b3c1cc029726" />
+>
 ![Portfolio Demo](./assets/portfolio-demo.gif)
 
 ---
