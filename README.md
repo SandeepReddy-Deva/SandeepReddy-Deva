@@ -4,7 +4,7 @@
 📍 California, USA  
 
 🌐 **Live Portfolio:**  
-👉 https://personal-viz-hub.lovable.app/
+👉 https://sandeep-reddy-devarapally.lovable.app/
 
 ---
 
@@ -135,7 +135,7 @@ Currently working at **State Street**, focusing on:
 
 # 🔥 Explore My Work
 
-👉 **Portfolio:** https://personal-viz-hub.lovable.app/
+👉 **Portfolio:** (https://sandeep-reddy-devarapally.lovable.app/)
 
 ---
 
